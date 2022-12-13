@@ -1,4 +1,4 @@
-# capstone_project_Sentiment-Analysison-amazon_product_review
+# capstone_project_Sentiment-Analysis-on-amazon_product_review
 
 - **Objective:**\
 Product reviews reveal customer sentiments helping the manufacturers decide what is required to make the product a success.\
@@ -19,6 +19,11 @@ to cater to the requirements of the customers.\
     Cluster based model\
     Future tred of data - Time series\
     Compare and conclude the best model\
+    
+    Tableau Dashboard link :\
+    		Baby dashboard - https://public.tableau.com/app/profile/ashishkumar.tiwari/viz/baby_dashboard/Dashboard1#1
+		clothing dashboard - https://public.tableau.com/app/profile/ashishkumar.tiwari/viz/clothingdashboard/Dashboard1#1
+    	
     
     
   ## Solution for business improvement for baby category.\
