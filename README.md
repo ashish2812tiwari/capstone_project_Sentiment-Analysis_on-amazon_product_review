@@ -3,22 +3,22 @@
 - **Objective:**\
 Product reviews reveal customer sentiments helping the manufacturers decide what is required to make the product a success.\
 Depending on the reviews provided by the users, the product is classified as good or bad and improvements can be made accordingly\
-to cater to the requirements of the customers.\
+to cater to the requirements of the customers.
 
 **Steps followed:**
 
-    Install the required package\
-    Load the required libraries\
-    Load the dataset and assign the column names\
-    Data cleaning\
-    Creating polarity of textual data (NLP)\
-    Analyze the dataset\
-    Splitting of data\
-    Build Popularity based model\
-    Tune the parameters - cross val score\
-    Cluster based model\
-    Future tred of data - Time series\
-    Compare and conclude the best model\
+    Install the required package
+    Load the required libraries
+    Load the dataset and assign the column names
+    Data cleaning
+    Creating polarity of textual data (NLP)
+    Analyze the dataset
+    Splitting of data
+    Build Popularity based model
+    Tune the parameters - cross val score
+    Cluster based model
+    Future tred of data - Time series
+    Compare and conclude the best model
     
     Tableau Dashboard link :
     		Baby dashboard - https://public.tableau.com/app/profile/ashishkumar.tiwari/viz/baby_dashboard/Dashboard1#1
@@ -26,9 +26,9 @@ to cater to the requirements of the customers.\
     	
     
     
-  ## Solution for business improvement for baby category.\
+  ## Solution for business improvement for baby category.
     
-    There are some loyal customer  who wants to chunk out.\ 
+    There are some loyal customer  who wants to chunk out.
        Sarah , Amy ,Gissica , Jen\
  This customer should be given some special attention because this customer are regular to our website.\
 - The product which are worst and having most negative review should be taken some action on them for improvement or stop promoting them on their selling portal.
