@@ -20,7 +20,7 @@ to cater to the requirements of the customers.\
     Future tred of data - Time series\
     Compare and conclude the best model\
     
-    Tableau Dashboard link :\
+    Tableau Dashboard link :
     		Baby dashboard - https://public.tableau.com/app/profile/ashishkumar.tiwari/viz/baby_dashboard/Dashboard1#1
 		clothing dashboard - https://public.tableau.com/app/profile/ashishkumar.tiwari/viz/clothingdashboard/Dashboard1#1
     	
